@@ -46,6 +46,3 @@
 
   <img src="./assets/Snowflake_Inc.-Logo.wine.png" height="40" alt="Snowflake" />
 </div>
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jjulioj&theme=github-compact" alt="GitHub contribution graph" />
-
