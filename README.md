@@ -19,14 +19,20 @@
 <div align="left">
   <img src="./assets/python-original.svg" height="40" alt="Python" />
   <img width="12" />
+  
+  <img src="./assets/Apache_Spark_logo.svg" height="40" alt="Apache Spark" />
+  <img width="12" />
+
+  <img src="./assets/Databricks_Logo.png" height="40" alt="Databricks" />
+  <img width="12" />
+
+  <img src="./assets/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
 
   <img src="./assets/azure-original.svg" height="40" alt="Azure" />
   <img width="12" />
 
   <img src="./assets/docker-original.svg" height="40" alt="Docker" />
-  <img width="12" />
-
-  <img src="./assets/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
 
   <img src="./assets/bash-original.svg" height="40" alt="Bash" />
@@ -36,15 +42,6 @@
   <img width="12" />
 
   <img src="./assets/Apache Hadoop.svg" height="40" alt="Hadoop" />
-  <img width="12" />
-
-  <img src="./assets/Apache_Spark_logo.svg" height="40" alt="Apache Spark" />
-  <img width="12" />
-
-  <img src="./assets/Apache_Kafka_logo.svg" height="40" alt="Apache Kafka" />
-  <img width="12" />
-
-  <img src="./assets/Databricks_Logo.png" height="40" alt="Databricks" />
   <img width="12" />
 
   <img src="./assets/Snowflake_Inc.-Logo.wine.png" height="40" alt="Snowflake" />
