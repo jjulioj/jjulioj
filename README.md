@@ -20,7 +20,7 @@
   <img src="./assets/python-original.svg" height="40" alt="Python" />
   <img width="12" />
   
-  <img src="./assets/Apache_Spark_logo.svg" height="40" alt="Apache Spark" />
+  <img src="./assets/Apache_Spark_logo.png" height="40" alt="Apache Spark" />
   <img width="12" />
 
   <img src="./assets/Databricks_Logo.png" height="40" alt="Databricks" />
