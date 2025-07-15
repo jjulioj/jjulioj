@@ -20,50 +20,53 @@
 
 <h2 align="left">Technologies</h2>
 
+<h2 align="left">Technologies</h2>
+
 <div align="left">
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  
+
   <!-- Azure -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
   <img width="12" />
-  
+
   <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-  
+
   <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
-  
-  <!-- Hadoop -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachehadoop/apachehadoop-original.svg" height="40" alt="hadoop logo" />
+
+  <!-- Bash -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   <img width="12" />
-  
-  <!-- Spark -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheSpark/apacheSpark-original.svg" height="40" alt="spark logo" />
+
+  <!-- Apache Airflow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="Airflow" />
   <img width="12" />
-  
-  <!-- Airflow -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="airflow logo" />
+
+  <!-- Apache Hadoop (sem SVG oficial estável) -->
+  <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/hadoop.svg?raw=true" height="40" alt="Hadoop" />
   <img width="12" />
-  
-  <!-- Kafka -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" height="40" alt="kafka logo" />
+
+  <!-- Apache Spark -->
+  <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/apache-spark.svg?raw=true" height="40" alt="Spark" />
   <img width="12" />
-  
-  <!-- Shell (Bash) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+
+  <!-- Apache Kafka -->
+  <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/kafka.svg?raw=true" height="40" alt="Kafka" />
   <img width="12" />
-  
-  <!-- Databricks -->
-  <img src="https://seeklogo.com/images/D/databricks-logo-E4C08E61B6-seeklogo.com.png" height="40" alt="databricks logo" />
+
+  <!-- Databricks (usando PNG para funcionar) -->
+  <img src="https://raw.githubusercontent.com/databricks/design-system/main/assets/logo/png/databricks-logo-48.png" height="40" alt="Databricks" />
   <img width="12" />
-  
-  <!-- Snowflake -->
-  <img src="https://cdn.worldvectorlogo.com/logos/snowflake-1.svg" height="40" alt="snowflake logo" />
+
+  <!-- Snowflake (usando PNG alternativo) -->
+  <img src="https://raw.githubusercontent.com/Snowflake-Labs/sfguide/main/resources/logo.png" height="40" alt="Snowflake" />
 </div>
+
 
 
 ###
