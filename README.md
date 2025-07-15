@@ -47,15 +47,5 @@
   <img src="./assets/Snowflake_Inc.-Logo.wine.png" height="40" alt="Snowflake" />
 </div>
 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jjulioj&theme=github-compact" alt="GitHub contribution graph" />
 
-
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jjulioj/jjulioj/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jjulioj/jjulioj/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jjulioj/jjulioj/output/pacman-contribution-graph.svg">
-</picture>
-
-###
