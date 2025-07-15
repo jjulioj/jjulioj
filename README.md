@@ -35,7 +35,7 @@
   <img src="./assets/apacheairflow-original.svg" height="40" alt="Apache Airflow" />
   <img width="12" />
 
-  <img src="./assets/Apache_Hadoop.svg" height="40" alt="Hadoop" />
+  <img src="./assets/Apache Hadoop.svg" height="40" alt="Hadoop" />
   <img width="12" />
 
   <img src="./assets/Apache_Spark_logo.svg" height="40" alt="Apache Spark" />
