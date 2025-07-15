@@ -46,3 +46,19 @@
 
   <img src="./assets/Snowflake_Inc.-Logo.wine.png" height="40" alt="Snowflake" />
 </div>
+
+
+<h2 align="left">📫 Let's Connect</h2>
+
+<p align="left">
+  <a href="mailto:juliojaszumbek98@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-juliojaszumbek98@hotmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/juliojaszumbek" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-juliojaszumbek-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/jjulioj" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-jjulioj-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
