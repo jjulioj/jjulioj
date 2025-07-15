@@ -57,8 +57,5 @@
   <a href="https://www.linkedin.com/in/juliojaszumbek" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-juliojaszumbek-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/jjulioj" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-jjulioj-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
